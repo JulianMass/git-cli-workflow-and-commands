@@ -1,5 +1,3 @@
-# TP1_AySO_2025 
-Alumno : Julián Mas
-División: 314
-Turno: Noche
-Repositorio donde dejo guardado un proyecto de la facultad, utilizando una máquina virtual, con el programa VirtualBox, se nos pedían hacer diferentes comandos usando el lenguaje Git todo por consola; en éste mismo repositorio se encuentra un archivo con todo el historial de comandos utilizados en el proyecto. 
+This repository documents hands-on practice with Git using the command line interface.
+The project was developed in a virtualized environment using VirtualBox, focusing on core version control operations such as repository initialization, branching, committing, and history tracking.
+It also includes a complete log of commands used throughout the workflow, serving as a reference for Git usage in real-world development scenarios.
